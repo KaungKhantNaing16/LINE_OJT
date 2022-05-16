@@ -132,8 +132,4 @@ $(document).ready(function () {
     $("body").removeClass("hide_sb")
   });
 
-  //line message 
-  // $('#line_acc_link').click(function () {
-  //   this.attr("href", "https://line.me/R/ti/p/@820cfnsa")
-  // })
 });

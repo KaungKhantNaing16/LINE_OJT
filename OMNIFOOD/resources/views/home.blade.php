@@ -383,9 +383,9 @@
         <div class="right">
           <span class="loginwith">Sign in with<br />social network</span>
 
-          <button class="social-signin facebook">Log in with facebook</button>
-          <button class="social-signin twitter">Log in with Twitter</button>
-          <button class="social-signin line">Log in with LINE</button>
+          <a class="social-signin facebook">Log in with facebook</a>
+          <a class="social-signin twitter">Log in with Twitter</a>
+          <a href="https://line-ojt-16522.herokuapp.com/" class="social-signin line">Log in with LINE</a>
         </div>
         <div class="or">OR</div>
       </div>
